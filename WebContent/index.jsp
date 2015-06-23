@@ -7,7 +7,7 @@
 <title>home page</title>
 </head>
 <body>
-<h1>update02_fromgithub</h1>
+<h1>update03_fromgithub</h1>
 <%= new java.util.Date() %>
 </body>
 </html>
